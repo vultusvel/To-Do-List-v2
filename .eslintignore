@@ -1,0 +1,5 @@
+# .eslintignore
+dist
+.eslintrc
+.git
+node_modules

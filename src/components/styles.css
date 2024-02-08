@@ -1,0 +1,33 @@
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 70px
+}
+
+.text{
+    padding-right: 10px;
+    width: 250px;
+}
+
+.button {
+    height: 55px;
+    width: 100px;
+}
+
+.tasks{
+    display: flex;
+    justify-content: center;
+}
+
+.taskName {
+    position: relative;
+}
+
+.remove{
+    position: absolute;
+    top: 0;
+    padding-right: 5px;
+    color: tomato;
+    font-weight: 900;
+}
